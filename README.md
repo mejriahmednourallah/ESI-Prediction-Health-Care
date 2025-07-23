@@ -65,6 +65,8 @@ Used **K-Means (k=3)** to group patients by age, ESI level, and admission freque
   * Avg Age: Elderly
   * Mean ESI: High (1-2)
   * Description: Urgent and frequent ED visitors
+![Clustering](images/PCA.png)
+
 
 ---
 
